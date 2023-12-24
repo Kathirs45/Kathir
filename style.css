@@ -1,0 +1,62 @@
+*{
+    font-family: 'Poppins', sans-serif;
+}
+
+
+.text-red{
+    color: red;
+}
+.navbar-nav{
+    font-weight: 500;
+    
+}
+.banner{
+    background-image: url('file:///storage/emulated/0/Download/Picsart_23-12-24_12-40-32-201.jpg');
+    color: white;
+    width: 100%;
+}
+.about{
+    background-color: gainsboro;
+    display: flex;
+    flex-wrap: wrap;
+    font-weight: bold;
+    font-size: 25px;
+    color: red;
+}
+.about1{
+    color: green;
+    font-weight: bold;
+}
+.skills1{
+    color: aqua;
+    background-color: goldenrod;
+    font-weight: bold;
+}
+.name-box{
+    border-radius: 5px;
+    border: 1px solid gainsboro;
+}
+.name-div{
+    width: 100%;
+}
+.contact{
+    font-weight: bold;
+    color: red;
+    background-color: beige;
+    padding-top: 5px;
+}
+.contact-div{
+    background-color: whitesmoke;
+    width: 100vw;
+}
+.send{
+    width: 25px;
+}
+footer{
+    background-color: white;
+    width: 100vw;
+}
+.navbar{
+    position: sticky;
+    top: 0;
+}
